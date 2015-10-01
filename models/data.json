@@ -1,27 +1,27 @@
 [
   {
-    "img" : "../public/images/cuteDog.jpeg",
+    "img" : "/images/cuteDog.jpeg",
+    "id" : "0"
+  },
+  {
+    "img" : "/images/cuteOtter.jpeg",
     "id" : "1"
   },
   {
-    "img" : "../public/images/cuteOtter.jpeg",
+    "img" : "/images/cutePig.jpeg",
     "id" : "2"
   },
   {
-    "img" : "../public/images/cutePig.jpeg",
+    "img" : "/images/cutePuppy.png",
     "id" : "3"
   },
   {
-    "img" : "../public/images/cutePuppy.png",
+    "img" : "/images/cuteRat.jpg",
     "id" : "4"
   },
   {
-    "img" : "../public/images/cuteRat.jpg",
-    "id" : "5"
-  },
-  {
     "img" : "/images/cuteSquirrel.jpeg",
-    "id" : "6"
+    "id" : "5"
   }
 
 ]
