@@ -1,0 +1,27 @@
+[
+  {
+    "img" : "../public/images/cuteDog.jpeg",
+    "id" : "1"
+  },
+  {
+    "img" : "../public/images/cuteOtter.jpeg",
+    "id" : "2"
+  },
+  {
+    "img" : "../public/images/cutePig.jpeg",
+    "id" : "3"
+  },
+  {
+    "img" : "../public/images/cutePuppy.png",
+    "id" : "4"
+  },
+  {
+    "img" : "../public/images/cuteRat.jpg",
+    "id" : "5"
+  },
+  {
+    "img" : "/images/cuteSquirrel.jpeg",
+    "id" : "6"
+  }
+
+]
