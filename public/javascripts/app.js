@@ -20,7 +20,7 @@ $(document).ready(function(){
             }).done(function (response) {
 
                 console.log(newNum);
-                var $bodyAppend = "<div class='container'><img class='generatedImg' src='" + response.value.img + "'></img><button id=" + response.value.id + " class='newImg'>Get New Image</button></div>";
+                var $bodyAppend = "<div class='container'><img class='generatedImg' src='" + response.value.img + "'></img><br /><button id=" + response.value.id + " class='newImg'>Get New Image</button></div>";
 
                 $('.appendedInfo').append($bodyAppend);
             })//end done

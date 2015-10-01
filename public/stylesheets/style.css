@@ -6,3 +6,23 @@ body {
 a {
   color: #00B7FF;
 }
+
+.container{
+  float: left;
+  text-align: center;
+}
+
+.randomPic{
+  margin-bottom: 20px;
+}
+
+img{
+  padding-right: 30px;
+  width: 300px;
+  height: 300px;
+}
+
+.appendedInfo{
+  width: 95%;
+  margin: 0 auto;
+}
